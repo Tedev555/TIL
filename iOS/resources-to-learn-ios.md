@@ -1,0 +1,2 @@
+- https://www.raywenderlich.com
+- https://developer.apple.com/swift/
